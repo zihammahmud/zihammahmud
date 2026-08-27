@@ -1,7 +1,7 @@
 # 👋🏼 Hello, I’m Ziham Mahmud
 
 💡 Enthusiastic about elegant solutions in **Java** and **Python**  
-🌐 Currently learning **Full-Stack Web Development**  
+ 
 🎯 I enjoy building thoughtful, efficient, and user-centric applications  
 
 📩 Let’s connect: [zihammahmud.mf@gmail.com](mailto:zihammahmud.mf@gmail.com)  
