@@ -12,10 +12,3 @@
 ![](https://streak-stats.demolab.com/?user=zihammahmud&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zihammahmud&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zihammahmud&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=zihammahmud&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
