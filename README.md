@@ -56,9 +56,9 @@ CSE Undergraduate | Cybersecurity Enthusiast | Learning Cyber Defense, AI &amp; 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zihammahmud&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zihammahmud&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=zihammahmud&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&background=00000000&ring=a855f7&fire=a855f7" alt="streak stats" />
+  <img height="210" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zihammahmud&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="210" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zihammahmud&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="210" src="https://streak-stats.demolab.com/?user=zihammahmud&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&background=00000000&ring=a855f7&fire=a855f7" alt="streak stats" />
 </p>
 
 ### 📈 Contribution Graph
